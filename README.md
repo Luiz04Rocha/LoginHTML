@@ -14,5 +14,4 @@ Ele foi criado para fins de aprendizado e prática de desenvolvimento front-end.
 ## 🛠️ Tecnologias Utilizadas
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
-- 
+- JavaScript (Vanilla JS) 
